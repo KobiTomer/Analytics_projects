@@ -1,2 +1,2 @@
 # Analytics_projects
-לינק לויזואליזציות בטאבלו - https://public.tableau.com/app/profile/kobi.tomer
+Link to Tableau Visualizations - https://public.tableau.com/app/profile/kobi.tomer
